@@ -1,3 +1,4 @@
+servos.P0.setAngle(90)
 makerbit.showStringOnLcd1602("Advait", makerbit.position1602(LcdPosition1602.Pos1), 16)
 makerbit.connectUltrasonicDistanceSensor(DigitalPin.P7, DigitalPin.P4)
 let Toll = 1000

@@ -8,7 +8,8 @@
         "pxt-kitronik-viewtext32": "github:kitronikltd/pxt-kitronik-viewtext32#v1.2.2",
         "MakerBit-LCD1602": "github:1010technologies/pxt-makerbit-lcd1602#v1.8.10",
         "i2cLCD1602": "github:makecode-extensions/i2clcd1602#v1.5.0",
-        "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.8"
+        "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.8",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
